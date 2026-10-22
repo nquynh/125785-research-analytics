@@ -26,7 +26,8 @@ Practical work for this course uses **Python on Google Colab**. You do not need 
 | 12 | Forecasting and forecast evaluation | `S12_student.ipynb` | vn_macro_quarterly |
 
 The full guide is `docs/125785_Python_Lab_Book_Student.docx`.
-Companion text: Wichmann & Brooks, *Python Guide for Introductory Econometrics for Finance* (Cambridge University Press).
+Textbook: Brooks, C. (2019), *Introductory Econometrics for Finance* (4th ed.), Cambridge University Press.  
+Companion text: Tao, R. & Brooks, C. (2019), *Python Guide to Accompany Introductory Econometrics for Finance*, ICMA Centre, University of Reading.
 
 ## Data
 The five CSV files in `data/` are **simulated for teaching** (seed 125785, see `data/make_data.py`).
